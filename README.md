@@ -1,1 +1,1 @@
-# personal_project_udacity
+# personal_projects_udacity
