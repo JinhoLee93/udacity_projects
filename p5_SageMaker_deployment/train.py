@@ -13,7 +13,7 @@ from model import LSTMClassifier
 
 def model_fn(model_dir):
     """Load the PyTorch model from the `model_dir` directory."""
-    print("Loading model.")
+    print("Loading model")
 
     # First, load the parameters used to create the model.
     model_info = {}
