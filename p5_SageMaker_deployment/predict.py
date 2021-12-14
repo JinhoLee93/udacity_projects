@@ -16,7 +16,7 @@ from model import LSTMClassifier
 from utils import review_to_words, convert_and_pad
 
 def model_fn(model_dir):
-    """Load the PyTorch model from the `model_dir` directory."""
+    """Load the PyTorch model from the `model_dir` directory"""
     print("Loading model.")
 
     # First, load the parameters used to create the model.
